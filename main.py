@@ -10,7 +10,7 @@ load_dotenv()
 
 Bot = Client(
     "GoFile-Bot",
-    bot_token=("5436508081:AAESJBRXddvCASlPBaSIhJ_rQiOeFIZeSu4"),
+    bot_token=("5436508081:AAEaiqF2JxmFf3RLZtybQh0QzqvOSVtyLYA"),
     api_id=int(("5310709")),
     api_hash=("63a546bdaf18e2cbba99f87b4274fa05")
 )
